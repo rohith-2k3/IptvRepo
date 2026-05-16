@@ -41,14 +41,7 @@ https://sflex07.fun/Sflex-Artl/266.m3u8
 #EXTINF:-1 tvg-id="TV9Telugu.in@SD" tvg-chno="12" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_TELUGU_NEWS/images/LOGO_HD/image.png" group-title="Telugu",TV9 Telugu (720p)
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V6_NEWS" tvg-chno="13" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_V6_NEWS/images/LANDSCAPE_169_HD/image.png" group-logo="https://sflex07.fun/Logo/1Airtel.png",V6 NEWS
-https://sflex07.fun/Sflex-Artl/V6_NEWS.m3u8
-
-#EXTINF:-1 tvg-id="NDTV_INDIA" tvg-chno="14" group-title="Telugu tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-logo="https://sflex07.fun/Logo/1Airtel.png",NDTV India
-https://sflex07.fun/Sflex-Artl/NDTV_INDIA.m3u8
-
-#EXTINF:-1 tvg-id="LIVING_INDIA_NEWS" tvg-chno="15" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_LIVING_INDIA_NEWS/images/LANDSCAPE_169_HD/image.png" group-logo="https://sflex07.fun/Logo/1Airtel.png",Living India News
-https://sflex07.fun/Sflex-Artl/LIVING_INDIA_NEWS.m3u8
+# 13 , 14 , 15 Channels can be added here
 
 
 # ==================== DEVOTIONAL ====================
