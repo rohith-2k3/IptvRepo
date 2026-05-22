@@ -9,13 +9,24 @@ https://sflex07.fun/Sflex-Artl/ETV_HD.m3u8
 https://sflex07.fun/Sflex-Artl/GEMINI_TV_HD.m3u8
 
 #EXTINF:-1 tvg-id="STAR_MAA_HD" tvg-chno="3" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_HD/images/LANDSCAPE_169_HD/image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Star MAA HD
-https://sflex07.fun/Sflex-Artl/STAR_MAA_HD.m3u8
+# --- https://sflex07.fun/Sflex-Artl/STAR_MAA_HD.m3u8
+
+#EXTINF:-1 tvg-id="STAR_MAA_HD" tvg-chno="3" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_HD/images/LANDSCAPE_169_HD/image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Star MAA HD
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=6c4b78251e865fc2a23a000374c8e725:983ecd2ffe60cdcf2e5e76ae229a5cb8
+https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1779420602~exp=1779442202~acl=/bpk-tv/Maa_HD_BTS/WDVLive/*~hmac=2edc373a0a3f376331e068cd7d1c58ddabee9b44e624a894240babd1f1fbe80a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 
 #EXTINF:-1 tvg-id="ZEE_TELUGU_HD" tvg-chno="4" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Zee Telugu HD
 https://sflex07.fun/Sflex-Artl/ZEE_TELUGU_HD.m3u8
 
 #EXTINF:-1 tvg-id="STAR_MAA_MOVIES_HD" tvg-chno="5" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_MOVIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Star Maa Movies HD
-https://sflex07.fun/Sflex-Artl/STAR_MAA_MOVIES_HD.m3u8
+#https://sflex07.fun/Sflex-Artl/STAR_MAA_MOVIES_HD.m3u8
+
+#EXTINF:-1 tvg-id="STAR_MAA_MOVIES_HD" tvg-chno="5" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_MOVIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Star Maa Movies HD
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=6dff9a2c741754c1b75312c53bc83d92:b75a65f46065ee70de75a88fed692846
+https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1779420602~exp=1779442202~acl=/bpk-tv/Maa_Movies_HD_BTS/WDVLive/*~hmac=54379973d6b6dc4fe66c76f1bdbaecada30e2d9e0c480b4e8b8f4c22dae1dcd9|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+
 
 #EXTINF:-1 tvg-id="ETV_CINEMA" tvg-chno="6" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_CINEMA/images/LANDSCAPE_169_HD/image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",ETV Cinema
 https://sflex07.fun/Sflex-Artl/ETV_CINEMA.m3u8
