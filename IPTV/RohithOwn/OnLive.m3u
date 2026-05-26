@@ -59,7 +59,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVTelugu.in@SD" tvg-chno="13" tvg-logo="https://i.imgur.com/WqTIoWS.png" group-title="Telugu",NTV Telugu (1080p)
 https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
 
-#EXTINF:-1 tvg-id="India Today" tvg-chno="14" tvg-logo="https://i.imgur.com/WqTIoWS.png" group-title="Telugu", India Today
+#EXTINF:-1 tvg-id="India Today" tvg-chno="14" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" group-title="Telugu", India Today
 https://amg00644-amg00644c1-ondemandkorea-amesia-10266.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-ondemandkoreaamesia/playlist.m3u8
 
 # ==================== , 14 , 15 Channels can be added here ====================
@@ -85,7 +85,7 @@ https://sflex07.fun/Sflex-Artl/STAR_MAA_GOLD.m3u8
 https://sflex07.fun/Sflex-Artl/GEMINI_LIFE.m3u8
 
 #EXTINF:-1 tvg-id="ETV_LIFE" tvg-chno="21" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_LIFE/images/LANDSCAPE_169_HD/image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",ETV Life
-https://sflex07.fun/Sflex-Artl/ETV_LIFE.m3u8
+https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8
 
 #EXTINF:-1 tvg-id="GEMINI_COMEDY" tvg-chno="22" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_COMEDY/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Gemini Comedy
 https://sflex07.fun/Sflex-Artl/GEMINI_COMEDY.m3u8
