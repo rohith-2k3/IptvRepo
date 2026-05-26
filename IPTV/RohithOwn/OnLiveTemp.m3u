@@ -1,0 +1,99 @@
+#EXTM3U
+
+# ==================== ENTERTAINMENT ====================
+
+#EXTINF:-1 tvg-id="ETV_HD" tvg-chno="1" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_HD/images/LANDSCAPE_169_HD/image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",ETV HD
+# trk -> https://sflex07.fun/Sflex-Artl/ETV_HD.m3u8
+https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="GEMINI_TV_HD" tvg-chno="2" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_TV_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Gemini TV HD
+https://sflex07.fun/Sflex-Artl/GEMINI_TV_HD.m3u8
+
+#EXTINF:-1 tvg-id="STAR_MAA_HD" tvg-chno="3" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_HD/images/LANDSCAPE_169_HD/image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Star MAA HD
+https://sflex07.fun/Sflex-Artl/STAR_MAA_HD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=6c4b78251e865fc2a23a000374c8e725:983ecd2ffe60cdcf2e5e76ae229a5cb8
+#https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1779420602~exp=1779442202~acl=/bpk-tv/Maa_HD_BTS/WDVLive/*~hmac=2edc373a0a3f376331e068cd7d1c58ddabee9b44e624a894240babd1f1fbe80a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+
+#EXTINF:-1 tvg-id="ZEE_TELUGU_HD" tvg-chno="4" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Zee Telugu HD
+https://sflex07.fun/Sflex-Artl/ZEE_TELUGU_HD.m3u8
+
+#EXTINF:-1 tvg-id="STAR_MAA_MOVIES_HD" tvg-chno="5" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_MOVIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Star Maa Movies HD
+https://sflex07.fun/Sflex-Artl/STAR_MAA_MOVIES_HD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=6dff9a2c741754c1b75312c53bc83d92:b75a65f46065ee70de75a88fed692846
+#https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1779420602~exp=1779442202~acl=/bpk-tv/Maa_Movies_HD_BTS/WDVLive/*~hmac=54379973d6b6dc4fe66c76f1bdbaecada30e2d9e0c480b4e8b8f4c22dae1dcd9|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+
+
+#EXTINF:-1 tvg-id="ETV_CINEMA" tvg-chno="6" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_CINEMA/images/LANDSCAPE_169_HD/image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",ETV Cinema
+# trk -> https://sflex07.fun/Sflex-Artl/ETV_CINEMA.m3u8
+https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="ZEE_CINEMALU_HD" tvg-chno="7" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMALU_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Zee Cinemalu HD
+https://sflex07.fun/Sflex-Artl/ZEE_CINEMALU_HD.m3u8
+
+#EXTINF:-1 tvg-id="GEMINI_MOVIES_HD" tvg-chno="8" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_MOVIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Gemini Movies HD
+https://sflex07.fun/Sflex-Artl/GEMINI_MOVIES_HD.m3u8
+
+
+# ==================== NEWS ====================
+
+#EXTINF:-1 tvg-id="Etv AndhraPradesh" tvg-chno="9" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-498-j5jy7i80-v1/imageContent-498-j5jy7i80-m1.png",ETV Andhra Pradesh
+https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5News.in@SD" tvg-chno="10" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV5_TELUGU/images/LOGO_HD/image.png" group-title="Telugu",TV5 News (576p)
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="10tv" tvg-chno="11" group-title="Telugu" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-17565-jclrkakg-v1/imageContent-17565-jclrkakg-m1.jpg"  group-logo="https://sflex07.fun/Logo/1Airtel.png",10 TV
+https://cdn-1.pishow.tv/live/391/master.m3u8
+
+#EXTINF:-1 tvg-id="TV9Telugu.in@SD" tvg-chno="12" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_TELUGU_NEWS/images/LOGO_HD/image.png" group-title="Telugu",TV9 Telugu (720p)
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTVTelugu.in@SD" tvg-chno="13" tvg-logo="https://i.imgur.com/WqTIoWS.png" group-title="Telugu",NTV Telugu (1080p)
+https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
+
+https://amg00644-amg00644c1-ondemandkorea-amesia-10266.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-ondemandkoreaamesia/playlist.m3u8
+
+# ==================== , 14 , 15 Channels can be added here ====================
+
+
+# ==================== DEVOTIONAL ====================
+
+#EXTINF:-1 tvg-id="BHAKTI_TV" tvg-chno="16" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHAKTI_TV/images/LANDSCAPE_169_HD/image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Bhakti TV
+https://sflex07.fun/Sflex-Artl/BHAKTI_TV.m3u8
+
+#EXTINF:-1 tvg-name="SVBC Telugu" tvg-chno="17" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-4-2026-09_05_43-PM-1-185x278.png" group-title="Telugu", SVBC Telugu
+https://yuppnimresmum.akamaized.net/110322/svbc/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+# ==================== EXTRA & COMEDY ====================
+
+#EXTINF:-1 tvg-id="ETV_PLUS" tvg-chno="18" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_PLUS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",ETV PLUS
+https://sflex07.fun/Sflex-Artl/ETV_PLUS.m3u8
+
+#EXTINF:-1 tvg-id="STAR_MAA_GOLD" tvg-chno="19" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_GOLD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",STAR MAA GOLD
+https://sflex07.fun/Sflex-Artl/STAR_MAA_GOLD.m3u8
+
+#EXTINF:-1 tvg-id="GEMINI_LIFE" tvg-chno="20" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_LIFE/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Gemini Life
+https://sflex07.fun/Sflex-Artl/GEMINI_LIFE.m3u8
+
+#EXTINF:-1 tvg-id="ETV_LIFE" tvg-chno="21" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_LIFE/images/LANDSCAPE_169_HD/image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",ETV Life
+https://sflex07.fun/Sflex-Artl/ETV_LIFE.m3u8
+
+#EXTINF:-1 tvg-id="GEMINI_COMEDY" tvg-chno="22" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_COMEDY/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Gemini Comedy
+https://sflex07.fun/Sflex-Artl/GEMINI_COMEDY.m3u8
+
+# ==================== MUSIC ====================
+
+#EXTINF:-1 tvg-id="GEMINI_MUSIC" tvg-chno="23" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_MUSIC/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Gemini Music
+https://sflex07.fun/Sflex-Artl/GEMINI_MUSIC.m3u8
+
+# ==================== SPORTS ====================
+
+#EXTINF:-1 tvg-id="STAR_SPORTS_1_HD" tvg-chno="24" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD/images/LANDSCAPE_169_HD/image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Star Sports 1 HD
+https://sflex07.fun/Sflex-Artl/STAR_SPORTS_1_HD.m3u8
+
+#EXTINF:-1 tvg-id="STAR_SPORTS_2_HD" tvg-chno="25" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_HD/images/LANDSCAPE_169_HD/image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Star Sports 2 HD
+https://sflex07.fun/Sflex-Artl/STAR_SPORTS_2_HD.m3u8
