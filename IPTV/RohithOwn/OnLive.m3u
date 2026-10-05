@@ -12,34 +12,56 @@ https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_index.mpd
 
 #EXTINF:-1 tvg-id="STAR_MAA_HD" tvg-chno="3" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_HD/images/LANDSCAPE_169_HD/image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Star MAA HD
-http://flixflare.shop/starshare/master.m3u8?id=168
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=6c4b78251e865fc2a23a000374c8e725:983ecd2ffe60cdcf2e5e76ae229a5cb8
-#https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1779420602~exp=1779442202~acl=/bpk-tv/Maa_HD_BTS/WDVLive/*~hmac=2edc373a0a3f376331e068cd7d1c58ddabee9b44e624a894240babd1f1fbe80a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1791218419~exp%3D1791240019~acl%3D%2F*~hmac%3Db964822049de8f2b43cde640da115d671c4c07e35bcc9e9530c9a91bf9a5947e
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c94a85da7e44563f8f3a687b5bef641c:445450834250887830adbde7c75caa2b
+#EXTVLCOPT:http-user-agent=Premium Plugx
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791218419~exp=1791240019~acl=/*~hmac=b964822049de8f2b43cde640da115d671c4c07e35bcc9e9530c9a91bf9a5947e
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1791218419~exp=1791240019~acl=/*~hmac=b964822049de8f2b43cde640da115d671c4c07e35bcc9e9530c9a91bf9a5947e"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_HD_MOB/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="ZEE_TELUGU_HD" tvg-chno="4" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Zee Telugu HD
-http://flixflare.shop/starshare/master.m3u8?id=1605
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1791222027~exp%3D1791243627~acl%3D%2Fbpk-tv%2FZeeTeluguHD_BTS%2FWDVLive%2F*~hmac%3D4dfdbe7f03e77a0375c341915984900dfc24fdd86e2b3fd75ad20bc8ab745a69
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=817e28c7f03456f1ae7383f244853b2b:7c03f916ec20cfd68f0a6a5735c6aaca
+#EXTVLCOPT:http-user-agent=Premium Plugx
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791222027~exp=1791243627~acl=/bpk-tv/ZeeTeluguHD_BTS/WDVLive/*~hmac=4dfdbe7f03e77a0375c341915984900dfc24fdd86e2b3fd75ad20bc8ab745a69
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1791222027~exp=1791243627~acl=/bpk-tv/ZeeTeluguHD_BTS/WDVLive/*~hmac=4dfdbe7f03e77a0375c341915984900dfc24fdd86e2b3fd75ad20bc8ab745a69"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTeluguHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="STAR_MAA_MOVIES_HD" tvg-chno="5" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_MOVIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Star Maa Movies HD
-http://flixflare.shop/starshare/master.m3u8?id=23314
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=6dff9a2c741754c1b75312c53bc83d92:b75a65f46065ee70de75a88fed692846
-#https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1779420602~exp=1779442202~acl=/bpk-tv/Maa_Movies_HD_BTS/WDVLive/*~hmac=54379973d6b6dc4fe66c76f1bdbaecada30e2d9e0c480b4e8b8f4c22dae1dcd9|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
-
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1791218419~exp%3D1791240019~acl%3D%2F*~hmac%3Db964822049de8f2b43cde640da115d671c4c07e35bcc9e9530c9a91bf9a5947e
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a78f7295d78453c69f9849d40095be2d:a9d4d809e74edc7625c4fe7ffc9e4647
+#EXTVLCOPT:http-user-agent=Premium Plugx
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791218419~exp=1791240019~acl=/*~hmac=b964822049de8f2b43cde640da115d671c4c07e35bcc9e9530c9a91bf9a5947e
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1791218419~exp=1791240019~acl=/*~hmac=b964822049de8f2b43cde640da115d671c4c07e35bcc9e9530c9a91bf9a5947e"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_Movies_HD_MOB/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="ETV_CINEMA" tvg-chno="6" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_CINEMA/images/LANDSCAPE_169_HD/image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",ETV Cinema
 # trk -> https://sflex07.fun/Sflex-Artl/ETV_CINEMA.m3u8
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
 
 #EXTINF:-1 tvg-id="ZEE_CINEMALU_HD" tvg-chno="7" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMALU_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Zee Cinemalu HD
-http://flixflare.shop/starshare/master.m3u8?id=23317
-
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1791222018~exp%3D1791243618~acl%3D%2Fbpk-tv%2FZeeCinemalu_BTS%2FWDVLive%2F*~hmac%3Da050d919344513dbf093be2821a9f16c5aff1f34916803ff97ffcb7c50aa7f2d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c37231880034787bce9fd3607aa09ea:e063bb30351dac572bac24ed43d304b2
-#EXTINF:-1 tvg-id="GEMINI_MOVIES_HD" tvg-chno="8" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_MOVIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Gemini Movies HD
-https://livestream.sunnxt.com/6a59979ff0044fd3b6e0cb85d6f44432/GeminiMoviesB_IN_index.mpd
+#KODIPROP:inputstream.adaptive.license_key=4f17e6167dfe5a87a6163cfadede52bc:09e030ff1daf74b4967dc08a392e337f
+#EXTVLCOPT:http-user-agent=Premium Plugx
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791222018~exp=1791243618~acl=/bpk-tv/ZeeCinemalu_BTS/WDVLive/*~hmac=a050d919344513dbf093be2821a9f16c5aff1f34916803ff97ffcb7c50aa7f2d
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1791222018~exp=1791243618~acl=/bpk-tv/ZeeCinemalu_BTS/WDVLive/*~hmac=a050d919344513dbf093be2821a9f16c5aff1f34916803ff97ffcb7c50aa7f2d"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemalu_BTS/WDVLive/index.mpd
 
 
 # ==================== NEWS ====================
@@ -51,7 +73,16 @@ https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="10tv" tvg-chno="11" group-title="Telugu" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-17565-jclrkakg-v1/imageContent-17565-jclrkakg-m1.jpg"  group-logo="https://sflex07.fun/Logo/1Airtel.png",10 TV
-https://cdn-1.pishow.tv/live/391/master.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1791218419~exp%3D1791240019~acl%3D%2F*~hmac%3Db964822049de8f2b43cde640da115d671c4c07e35bcc9e9530c9a91bf9a5947e
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1edbcf52713c5dcaa36bd2d055c40076:6677984bdf8e69590f66d93c37e33c5d
+#EXTVLCOPT:http-user-agent=Premium Plugx
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791218419~exp=1791240019~acl=/*~hmac=b964822049de8f2b43cde640da115d671c4c07e35bcc9e9530c9a91bf9a5947e
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1791218419~exp=1791240019~acl=/*~hmac=b964822049de8f2b43cde640da115d671c4c07e35bcc9e9530c9a91bf9a5947e"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/10_TV_MOB/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="TV9Telugu.in@SD" tvg-chno="12" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_TELUGU_NEWS/images/LOGO_HD/image.png" group-title="Telugu",TV9 Telugu (720p)
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
@@ -68,7 +99,16 @@ https://amg00644-amg00644c1-ondemandkorea-amesia-10266.playouts.now.amagi.tv/pla
 # ==================== DEVOTIONAL ====================
 
 #EXTINF:-1 tvg-id="BHAKTI_TV" tvg-chno="16" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHAKTI_TV/images/LANDSCAPE_169_HD/image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Bhakti TV
-https://sflex07.fun/Sflex-Artl/BHAKTI_TV.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1791218419~exp%3D1791240019~acl%3D%2F*~hmac%3Db964822049de8f2b43cde640da115d671c4c07e35bcc9e9530c9a91bf9a5947e
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f395a634dec56aea8e7ef9f088e8e43:f799f108446f372391f020502a419c23
+#EXTVLCOPT:http-user-agent=Premium Plugx
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791218419~exp=1791240019~acl=/*~hmac=b964822049de8f2b43cde640da115d671c4c07e35bcc9e9530c9a91bf9a5947e
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1791218419~exp=1791240019~acl=/*~hmac=b964822049de8f2b43cde640da115d671c4c07e35bcc9e9530c9a91bf9a5947e"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Bhakti_TV_MOB/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-name="SVBC Telugu" tvg-chno="17" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-4-2026-09_05_43-PM-1-185x278.png" group-title="Telugu", SVBC Telugu
 https://yuppnimresmum.akamaized.net/110322/svbc/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
