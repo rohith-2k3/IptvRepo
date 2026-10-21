@@ -14,53 +14,51 @@ https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_
 #EXTINF:-1 tvg-id="STAR_MAA_HD" tvg-chno="3" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_HD/images/LANDSCAPE_169_HD/image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Star MAA HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1791218419~exp%3D1791240019~acl%3D%2F*~hmac%3Db964822049de8f2b43cde640da115d671c4c07e35bcc9e9530c9a91bf9a5947e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c94a85da7e44563f8f3a687b5bef641c:445450834250887830adbde7c75caa2b
-#EXTVLCOPT:http-user-agent=Premium Plugx
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792594807~exp=1792616407~acl=/*~hmac=2de35b393f9deed4d3f1a5880b6588fc7a8d9959ab54adabb006aadd2980e292
+#EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791218419~exp=1791240019~acl=/*~hmac=b964822049de8f2b43cde640da115d671c4c07e35bcc9e9530c9a91bf9a5947e
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1791218419~exp=1791240019~acl=/*~hmac=b964822049de8f2b43cde640da115d671c4c07e35bcc9e9530c9a91bf9a5947e"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792594807~exp=1792616407~acl=/*~hmac=2de35b393f9deed4d3f1a5880b6588fc7a8d9959ab54adabb006aadd2980e292
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792594807~exp=1792616407~acl=/*~hmac=2de35b393f9deed4d3f1a5880b6588fc7a8d9959ab54adabb006aadd2980e292"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_HD_MOB/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="ZEE_TELUGU_HD" tvg-chno="4" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Zee Telugu HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1791222027~exp%3D1791243627~acl%3D%2Fbpk-tv%2FZeeTeluguHD_BTS%2FWDVLive%2F*~hmac%3D4dfdbe7f03e77a0375c341915984900dfc24fdd86e2b3fd75ad20bc8ab745a69
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=817e28c7f03456f1ae7383f244853b2b:7c03f916ec20cfd68f0a6a5735c6aaca
-#EXTVLCOPT:http-user-agent=Premium Plugx
+#KODIPROP:inputstream.adaptive.license_key=817e28c7f03456f1ae7383f244853b2b:7c03f916ec20cfd68f0a6a5735c6aaca,817e28c7f03456f1ae7383f244853b2b:7c03f916ec20cfd68f0a6a5735c6aaca
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792594094~exp=1792597694~acl=/bpk-tv/ZeeTeluguHD_BTS/WDVLive/*~hmac=508a129d93f75a209f305616c34b8cabff1a00f900a917eed69a1a53f67936d7
+#EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791222027~exp=1791243627~acl=/bpk-tv/ZeeTeluguHD_BTS/WDVLive/*~hmac=4dfdbe7f03e77a0375c341915984900dfc24fdd86e2b3fd75ad20bc8ab745a69
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1791222027~exp=1791243627~acl=/bpk-tv/ZeeTeluguHD_BTS/WDVLive/*~hmac=4dfdbe7f03e77a0375c341915984900dfc24fdd86e2b3fd75ad20bc8ab745a69"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792594094~exp=1792597694~acl=/bpk-tv/ZeeTeluguHD_BTS/WDVLive/*~hmac=508a129d93f75a209f305616c34b8cabff1a00f900a917eed69a1a53f67936d7
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792594094~exp=1792597694~acl=/bpk-tv/ZeeTeluguHD_BTS/WDVLive/*~hmac=508a129d93f75a209f305616c34b8cabff1a00f900a917eed69a1a53f67936d7"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTeluguHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="STAR_MAA_MOVIES_HD" tvg-chno="5" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_MOVIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Star Maa Movies HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1791218419~exp%3D1791240019~acl%3D%2F*~hmac%3Db964822049de8f2b43cde640da115d671c4c07e35bcc9e9530c9a91bf9a5947e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a78f7295d78453c69f9849d40095be2d:a9d4d809e74edc7625c4fe7ffc9e4647
 #EXTVLCOPT:http-user-agent=Premium Plugx
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791218419~exp=1791240019~acl=/*~hmac=b964822049de8f2b43cde640da115d671c4c07e35bcc9e9530c9a91bf9a5947e
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1791218419~exp=1791240019~acl=/*~hmac=b964822049de8f2b43cde640da115d671c4c07e35bcc9e9530c9a91bf9a5947e"}
+#KODIPROP:inputstream.adaptive.stream_headers=Cookie=__hdnea__=st=1792593369~exp=1792614969~acl=/*~hmac=7b15b49a996b819abe3d7952cb04d37940c1c947329e389f4f3e4f10b1fd86bb&User-Agent=Premium Plugx
+#EXTHTTP:{"cookie":"__hdnea__=st=1792593369~exp=1792614969~acl=/*~hmac=7b15b49a996b819abe3d7952cb04d37940c1c947329e389f4f3e4f10b1fd86bb"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_Movies_HD_MOB/WDVLive/index.mpd
+
 
 #EXTINF:-1 tvg-id="ETV_CINEMA" tvg-chno="6" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_CINEMA/images/LANDSCAPE_169_HD/image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",ETV Cinema
 # trk -> https://sflex07.fun/Sflex-Artl/ETV_CINEMA.m3u8
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
 
 #EXTINF:-1 tvg-id="ZEE_CINEMALU_HD" tvg-chno="7" group-title="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMALU_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png"  group-logo="https://sflex07.fun/Logo/1Airtel.png",Zee Cinemalu HD
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1791222026~exp%3D1791243626~acl%3D%2Fbpk-tv%2FZeeCinemaluHD_BTS%2FWDVLive%2F*~hmac%3Dcc3b802173056e50a73ab6d365c49e8b83507c64606d7a6fb51d60278bd7b175
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b71f9a5cb8325078bb6b59528b553cc2:fa2c33f8a7d9933a347562bf092a90fe
+#KODIPROP:inputstream.adaptive.license_key=eef2842de0e15f42a6c4fb1a738e1d57:2919274f6d2e46938389bbddf3773efb,759378e46835516b8d94d681509af874:84f2d21a721e8ea6e03dadafeca958e3,507a76b7d73455f6b1bb302467e555e4:f9be546a1a19eedf4f67a7739b7afb20,8410744eb1845e629475f0e7fa5fd0bf:ab83e1703f052520a2a1ef3bfb55d8ab,730ed5cd30895628a4db7ef0a49db01a:518d8c106dfae40459b231119ecd80d7
 #EXTVLCOPT:http-user-agent=Premium Plugx
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791222026~exp=1791243626~acl=/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/*~hmac=cc3b802173056e50a73ab6d365c49e8b83507c64606d7a6fb51d60278bd7b175
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1791222026~exp=1791243626~acl=/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/*~hmac=cc3b802173056e50a73ab6d365c49e8b83507c64606d7a6fb51d60278bd7b175"}
+#KODIPROP:inputstream.adaptive.stream_headers=Cookie=__hdnea__=st=1792589123~exp=1792610723~acl=/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/*~hmac=afde7b2fb20911fd81e1b819c08514716fb72ff3db7b7fbedc4feb3be65220ca&User-Agent=Premium Plugx
+#EXTHTTP:{"cookie":"__hdnea__=st=1792589123~exp=1792610723~acl=/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/*~hmac=afde7b2fb20911fd81e1b819c08514716fb72ff3db7b7fbedc4feb3be65220ca"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/index.mpd
 
 
